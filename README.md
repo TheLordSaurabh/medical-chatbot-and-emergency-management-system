@@ -5,5 +5,5 @@
 ## Notes :
 ### As the project is under review and can be recommended for publication as a Research Paper - the source codes and other details of the project are kept confidential.
 ### If you're a recruiter reviewing my profile, please contact to my phone number given in my resume. I will demonstrate my project directly to you.
-### All the Reports and Codes will be uploaded by 20th June, 2024 - once my Project Review is over and I am permitted to display my work.
+### All the Reports and Codes will be uploaded by 20th June, 2024 - once my Project Review is over.
 #### Email : sgguptatech@gmail.com
